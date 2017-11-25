@@ -1,0 +1,9 @@
+Building Labcoin
+
+See doc/readme-qt.rst for instructions on building Labcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Labcoin.
+
+See doc/build-*.txt for instructions on building labcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Labcoin.
